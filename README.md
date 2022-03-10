@@ -11,7 +11,7 @@
 # วิธีใช้คร่าวๆ
 
 **1.** เอา Token Discord ของตัวเองใส่ใน **`setting.json`** ใส่ตรง
-![]()
+![](https://cdn.discordapp.com/attachments/943163361699438633/951548717423546428/unknown.png)
  
 # ตัวอย่างง!!
 
