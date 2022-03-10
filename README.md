@@ -4,6 +4,8 @@
  
 **2.** หรือเข้ามาติดต่อสอบถามหรือสั่งซื้อของได้ที่ลิ้ง [https://discord.gg/RedzoneShop](https://discord.gg/RedzoneShop)
 
+**3.** เว็ปที่เอาไว้รันตอลด 24/7 โดยไม่เสียเงิน [https://uptimerobot.com/](https://uptimerobot.com/)
+
 **3.** ใช้งานให้สนุกนะครับ เอามาแจกให้แล้ว
 
 # ตัวอย่างง!!
