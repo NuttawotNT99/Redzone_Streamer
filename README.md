@@ -15,7 +15,13 @@
 
 **2.** เอา **`CLIENT ID , IMAGE`** มาใส่ให้ตรงกับในโค้ด
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951572452402679879/unknown.png)
+
+**3.** เมือเสร็จแล้วให้ทำการกดปุ่ม **`Run`** ได้เลยครับ
+![](https://cdn.discordapp.com/attachments/943163361699438633/951574071689216071/unknown.png)
  
+**4.** เมื่อรันแล้วถ้าขึ้นอย่างงี้แสดงว่าใช้ได้แล้วนะครับ
+![](https://cdn.discordapp.com/attachments/943163361699438633/951574729754574898/unknown.png)
+
 # ตัวอย่างง!!
 
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951542412893900820/1800bad71604f0a8.png)
