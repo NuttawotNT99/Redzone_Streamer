@@ -12,13 +12,13 @@ keepAlive()
 client.login(TOKEN)
  
 client.on("ready", () => {
-    rpcGenerator.getRpcImage("951152171892752425", "redzone_png")
+    rpcGenerator.getRpcImage("CLIENT ID", "IMAGE")
     .then(image => {
         let presence = new rpcGenerator.Rpc()
         .setName("twitch")
         .setUrl("https://www.twitch.tv/nuttawot_nt")
         .setType("STREAMING")
-        .setApplicationId("951152171892752425")
+        .setApplicationId("CLIENT ID")
         .setAssetsLargeImage(image.id)
         .setAssetsLargeText("https://discord.gg/RedzoneShop")
         .setDetails("Discord Shop")
