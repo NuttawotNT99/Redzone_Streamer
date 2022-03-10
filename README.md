@@ -22,7 +22,7 @@
 **4.** เมื่อรันแล้วถ้าขึ้นอย่างงี้แสดงว่าใช้ได้แล้วนะครับ
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951574729754574898/unknown.png)
 
-**5.** แล้ว่สามารถเอาลิ้งตรงนี้ไปใส่ใน [https://uptimerobot.com/](https://uptimerobot.com/) เพื่อนรันได้ตลอด 24/7 เลย
+**5.** แล้วสามารถเอาลิ้งตรงนี้ไปใส่ใน [https://uptimerobot.com/](https://uptimerobot.com/) เพื่อนรันได้ตลอด 24/7 เลย
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951575078905217154/unknown.png)
 
 # ตัวอย่างง!!
