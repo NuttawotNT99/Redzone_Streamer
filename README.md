@@ -1,6 +1,6 @@
 # Redzone_Streamer
 
-**1.** สามารถทำตามได้ที่คริป [https://www.youtube.com](https://www.youtube.com/channel/UCQZSdJt4KC_zNqlRzIK1VqA)
+**1.** สามารถทำตามได้ที่คริป [https://www.youtube.com/Nuttawot_NT](https://www.youtube.com/channel/UCQZSdJt4KC_zNqlRzIK1VqA)
  
 **2.** หรือเข้ามาติดต่อสอบถามหรือสั่งซื้อของได้ที่ลิ้ง [https://discord.gg/RedzoneShop](https://discord.gg/RedzoneShop)
 
