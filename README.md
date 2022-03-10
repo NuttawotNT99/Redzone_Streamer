@@ -13,7 +13,7 @@
 **1.** เอา Token Discord ของตัวเองใส่ใน **`setting.json`** ใส่ตามรูปเลยนะครับ
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951549350692143114/unknown.png)
 
-**2.** เอา **`CLIENT ID`** มาใส่ให้ตรงกับในโค้ด
+**2.** เอา **`CLIENT ID , IMAGE`** มาใส่ให้ตรงกับในโค้ด
 ![](https://cdn.discordapp.com/attachments/943163361699438633/951572452402679879/unknown.png)
  
 # ตัวอย่างง!!
